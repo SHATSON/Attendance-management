@@ -2,12 +2,13 @@
 <br/>
 Features:
 <br/>
-- Sign in/Sign up systems
-- Add students, unit, courses
-- Maintain Attendance Records
-- Add Member, Group (admin panel)
-- Database Backups
-- Membership management
+<br/>
+- Sign in/Sign up systems<br/>
+- Add students, unit, courses<br/>
+- Maintain Attendance Records<br/>
+- Add Member, Group (admin panel)<br/>
+- Database Backups<br/>
+- Membership management<br/>
 - Print Preview, Filter systems <br/>
 <br/>
 Here, the user has to log in as Lecturer or Admin. From Lecturer’s login, the user can view and add Students, units, courses, and maintain daily Attendance records easily. From Admin’s login, the user has access to each and everything in the system. Admin can also View & Add Students, units, courses and maintain Attendance record. Beside this, Admin can view and add a new group, members. Database backups can also be created from the utility tab and Memberships can also be managed by the admin. This system makes the management of student’s attendance easier as it is not difficult to understand, use and navigate by the users.
@@ -15,7 +16,7 @@ Here, the user has to log in as Lecturer or Admin. From Lecturer’s login, the 
 Use WAMP Server or XAMP Server
 <br/>
 <br/>
-                         : : : : : LOGIN DETAILS : : : : : <br/>
+                         : : : : : LOGIN DETAILS : : : : : <br/><br/>
 " USER  "<br/>
 username : pamba <br/>
 Passowrd : 123456789Pamba <br/>
