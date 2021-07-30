@@ -58,7 +58,8 @@ CREATE TABLE IF NOT EXISTS `courses` (
 INSERT INTO `courses` (`id`, `name`) VALUES
 (1, 'Technology Education'),
 (2, 'Computer Science'),
-(3, 'Bussiness Administration');
+(3, 'Software Engineering'),
+(4, 'Bussiness Administration');
 
 -- --------------------------------------------------------
 
