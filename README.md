@@ -17,10 +17,7 @@ Use WAMP Server or XAMP Server
 <br/>
 <br/>
                          : : : : : LOGIN DETAILS : : : : : <br/><br/>
-" USER  "<br/>
-username : pamba <br/>
-Passowrd : 123456789Pamba <br/>
-<br/>
+
 
 For " ADMIN " login provide the given username and password<br/>
 username : admin<br/>
